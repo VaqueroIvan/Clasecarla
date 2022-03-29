@@ -24,3 +24,4 @@ btnEnviar.addEventListener("click", () => {
   // Acá va nuestro código
   console.log("dato:", dato.value);
 });
+//prueba de cambio
